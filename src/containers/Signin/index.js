@@ -106,7 +106,6 @@ export const Signin = (props) => {
             width: "100%",
             height: "100vh",
             margin: "auto",
-            paddingBottom: "20px",
             objectFit:"cover"
           }}
         />
